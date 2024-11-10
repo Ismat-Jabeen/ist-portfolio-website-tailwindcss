@@ -4,7 +4,7 @@ import { BsLinkedin } from "react-icons/bs";
 const EmailSection = () => {
   return (
     <section className="grid md:grid-cols-2 my-12 md:my-12 py-24 gap-4 relative">
-<div className="bg-custom-radial rounded-full h-80 w-80 blur-2xl absolute top-1/2 top-full left-0 transform -translate-y-1/2 -translate-x-1/2"></div>
+<div className="bg-custom-radial rounded-full h-80 w-80 blur-2xl absolute top-1/2 left-0 transform -translate-y-1/2 -translate-x-1/2"></div>
 
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
